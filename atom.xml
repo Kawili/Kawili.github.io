@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kawili-Blog</title>
+  
+  
+  <link href="http://kawili.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://kawili.github.io/"/>
+  <updated>2021-07-18T02:50:38.007Z</updated>
+  <id>http://kawili.github.io/</id>
+  
+  <author>
+    <name>Kawili</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="http://kawili.github.io/2021/07/14/my-first-blog/"/>
+    <id>http://kawili.github.io/2021/07/14/my-first-blog/</id>
+    <published>2021-07-13T22:54:46.000Z</published>
+    <updated>2021-07-18T02:50:38.007Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://kawili.github.io/2021/07/13/hello-world/"/>
+    <id>http://kawili.github.io/2021/07/13/hello-world/</id>
+    <published>2021-07-13T12:14:36.238Z</published>
+    <updated>2021-07-18T02:50:38.004Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
