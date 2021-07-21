@@ -26,7 +26,7 @@ function bot_ui_ini() {
     }).then(function () {
         botui.message.add({
             delay: 1100,
-            content: "这里是 cungudafa"
+            content: "这里是 Kawili"
         }).then(function () {
             botui.message.add({
                 delay: 1100,
@@ -90,8 +90,8 @@ function bot_ui_ini() {
                                     botui.action.button({
                                         delay: 1100,
                                         action: [{
-                                            text: "为什么叫cungudafa呢？🤔",
-                                            value: "why-cungudafa"
+                                            text: "为什么叫Kawili呢？🤔",
+                                            value: "why-Kawili"
                                         }]
                                     }).then(function (a) {
                                         thirdpart()
@@ -106,12 +106,12 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "cungudafa是村姑大发的拼音，大发在韩语发音中时很厉害的意思。"
+                content: "Kawili和我妹妹的关系比较大。"
             }).then(function () {
                 botui.action.button({
                     delay: 1500,
                     action: [{
-                        text: "为什么叫村姑呢？",
+                        text: "为什么叫Kawili呢？",
                         value: "why-cat"
                     }]
                 }).then(function (a) {
@@ -122,7 +122,7 @@ function bot_ui_ini() {
         fourthpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "我的游戏名叫村姑,后来也有人叫我村姑学姐 "
+                content: "我的游戏名叫Kawili。"
             }).then(function () {
                 botui.message.add({
                     delay: 1100,
@@ -143,7 +143,7 @@ function bot_ui_ini() {
         fifthpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "emmmm,csdn,github,都是cungudafa哦"
+                content: "emmmm,csdn,github,都是Kawili哦"
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
